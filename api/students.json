@@ -1,0 +1,87 @@
+[
+    {
+      "_id": "5fcppiixz67e2c8c0b792a",
+      "firstname": "Ariel",
+      "lastname": "Elazarov",
+      "img": "https://miami-oct-students.s3.amazonaws.com/ariel.PNG"
+    },
+    {
+      "_id": "5fc3b9xnzmd80967e7e2c8c0b792a",
+      "firstname": "Alejandro",
+      "lastname": "Mojarro",
+      "img": "https://miami-oct-students.s3.amazonaws.com/alejandro.PNG"
+    },
+    {
+      "_id": "5f2c8c0b792a",
+      "firstname": "Ana",
+      "lastname": "Parra",
+      "img": "https://miami-oct-students.s3.amazonaws.com/ana.PNG"
+    },
+    {
+      "_id": "5f99cd99d80967e2c8c0b792a",
+      "firstname": "Brandon",
+      "lastname": "Garrett",
+      "img": "https://miami-oct-students.s3.amazonaws.com/garret.PNG"
+    },
+    {
+      "_id": "5fchanl967e2c8c0b792a",
+      "firstname": "Cameron",
+      "lastname": "Campbell",
+      "img": "https://miami-oct-students.s3.amazonaws.com/brandon.PNG"
+    },
+    {
+      "_id": "5fc3zzq1237e2c8c0b792a",
+      "firstname": "Darys",
+      "lastname": "Darys",
+      "img": "https://miami-oct-students.s3.amazonaws.com/darys.PNG"
+    },
+    {
+      "_id": "5fc3b99d80967e2c8c0bzzqa",
+      "firstname": "Ismael(ish)",
+      "lastname": "Jimenez",
+      "img": "https://miami-oct-students.s3.amazonaws.com/ismael.PNG"
+    },
+    {
+      "_id": "b99d80967e2c8c0b792a5fc3",
+      "firstname": "Michael",
+      "lastname": "DeGori",
+      "img": "https://miami-oct-students.s3.amazonaws.com/micheal.PNG"
+    },
+    {
+      "_id": "67e2c8c0b792a5fc3b99d809",
+      "firstname": "PATRICK",
+      "lastname": "QUEZADA",
+      "img": "https://miami-oct-students.s3.amazonaws.com/patrick.PNG"
+    },
+    {
+      "_id": "5fc3b997e2c8c0b792ad8096",
+      "firstname": "Robert",
+      "lastname": "Kane",
+      "img": "https://miami-oct-students.s3.amazonaws.com/robert.PNG"
+    },
+    {
+      "_id": "967e25fc3b99d80c8c0b792a",
+      "firstname": "Steven",
+      "lastname": "Sarria",
+      "img": "https://miami-oct-students.s3.amazonaws.com/steven.PNG"
+    },
+    {
+      "_id": "99d80967e2c8c0b792a5fc3b",
+      "firstname": "Valentino",
+      "lastname": "Rodriguez",
+      "img": "https://miami-oct-students.s3.amazonaws.com/valentino.PNG"
+    },
+    {
+      "_id": "5fd80967e2c8c0b792ac3b99",
+      "firstname": "Viviana Andrea",
+      "lastname": "Garcia",
+      "img": "https://miami-oct-students.s3.amazonaws.com/viviana.PNG"
+    },
+    {
+      "_id": "5fc3b99d8096b792a7e2c8c0",
+      "firstname": "Zach",
+      "lastname": "Conley",
+      "img": "https://miami-oct-students.s3.amazonaws.com/zach.PNG"
+    }
+  ]
+  
